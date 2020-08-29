@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->   
-Name : Chae Jeong Ah 
-Age : 22 
-Email : jokj624@gmail.com
+Name : Chae Jeong Ah   
+Age : 22   
+Email : jokj624@gmail.com   
+
 
 Sookmyung. W. Univ
+
+
+
 Dept. Software Convergence 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
