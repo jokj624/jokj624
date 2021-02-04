@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->   
 Name : Chae Jeong Ah   
-Age : 22   
+Age : 23   
 Email : jokj624@gmail.com   
 
 
