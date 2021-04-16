@@ -17,7 +17,7 @@ Sookmyung Women's University, Dept. Software Convergence
 
 
  
-<h1 align="center"> 👩‍💻 Tech Stack</h1>   
+<h3 align="center"> 👩‍💻 Tech Stack</h3>   
 
 
  
@@ -27,7 +27,7 @@ Sookmyung Women's University, Dept. Software Convergence
 
 
 
-<h1 align="center"> 🥰 My Github</h1>
+<h3 align="center"> 🥰 My Github</h3>
 
 
  
@@ -35,7 +35,7 @@ Sookmyung Women's University, Dept. Software Convergence
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokj624&layout=compact&theme=dark)](https://github.com/jokj624)
 
 
-<h1 align="center"> 🔗 Link </h1>
+<h3 align="center"> 🔗 Link </h3>
 
 
  
@@ -43,7 +43,7 @@ Sookmyung Women's University, Dept. Software Convergence
  
 
  
-<h1 align="center"> 💻 Algorithm </h1>
+<h3 align="center"> 💻 Algorithm </h3>
 
 
  
