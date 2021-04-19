@@ -1,7 +1,6 @@
  <div align=center>
  
  
-![header](https://capsule-render.vercel.app/api?type=slice&color=79dcb8&height=300&section=header&text=JeongAhChae&fontSize=90)
 
 <h5 align="center">
 Hi! My name is Jeong Ah Chae<br/>   
