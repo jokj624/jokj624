@@ -28,7 +28,7 @@ Sookmyung Women's University, Dept. Software Convergence
 
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokj624&theme=dark)](https://github.com/jokj624)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokj624&theme=dark)](https://github.com/jokj624)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokj624&layout=compact&theme=dark)](https://github.com/jokj624)
 
 
