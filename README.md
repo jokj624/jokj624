@@ -45,6 +45,6 @@ Sookmyung Women's University, Dept. Software Convergence
 
 
  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
 
 </div>
