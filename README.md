@@ -3,7 +3,7 @@
  
 
 <h5 align="center">
-Hi! My name is Jeong Ah Chae<br/>   
+Jeong Ah Chae<br/>   
 Sookmyung Women's University, Dept. Software Convergence     
 </h5> 
 
