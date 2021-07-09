@@ -29,6 +29,7 @@ Sookmyung Women's University, Dept. Software Convergence
 [MAIT](https://github.com/jokj624/AIhomeTraining_web) : AI 홈 트레이닝 웹   
 [SMSW Slack bot](https://github.com/jokj624/sw-slackbot) : 숙명여대 소프트웨어학부 취업 공지를 가져오는 슬랙 App   
 [OMG-Test](https://github.com/jokj624/OMG-Test) : 재미로 보는 나와 닮은 오마이걸 멤버 성격 테스트   
-[갸가갸가](https://github.com/jokj624/GaGaGaGaServer) : 솝트인들을 위한 위트있는 첫인상 기록 서비스 (28기 솝커톤)    
+[갸가갸가](https://github.com/jokj624/GaGaGaGaServer) : 솝트인들을 위한 위트있는 첫인상 기록 서비스 (28기 솝커톤)   
+[두리번](https://github.com/TeamDooRiBon/DooRi-Server) : 작은 움직임이 만드는 우리다운 여행 두리번 (28기 SOPT App-Jam)
 
 </div>
