@@ -1,19 +1,18 @@
  <div align=center>
  
   
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjokj624)](https://hits.seeyoufarm.com) 
 <h5 align="center">
 Jeong Ah Chae<br/>   
 Sookmyung Women's University, Dept. Software Convergence     
+
 </h5>  
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jokj624)](https://github.com/jokj624) 
 
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjokj624)](https://hits.seeyoufarm.com) 
- 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokj624&layout=compact&theme=dark)](https://github.com/jokj624)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624)   
+### 🙋🏻‍♀️ Interest
+`C/C++` `Algorithm` `JavaScript` `TypeScript` `Node.js` `Nest.js` `React` `Express.js` `Koa` `MongoDB` 
+  
 
 <h3 align="center"> 🔗 Link </h3>
 
@@ -32,4 +31,6 @@ Sookmyung Women's University, Dept. Software Convergence
 [갸가갸가](https://github.com/jokj624/GaGaGaGaServer) : 솝트인들을 위한 위트있는 첫인상 기록 서비스 (28기 솝커톤)   
 [두리번](https://github.com/TeamDooRiBon/DooRi-Server) : 작은 움직임이 만드는 우리다운 여행 두리번 (28기 SOPT App-Jam)
 
+ 
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624) 
 </div>
