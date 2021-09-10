@@ -4,8 +4,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjokj624)](https://hits.seeyoufarm.com) 
 <h5 align="center">
 Jeong Ah Chae<br/>   
-Sookmyung Women's University, Dept. Software Convergence     
-
+ Sookmyung Women's University, Dept. Software Convergence    </br> 
+    
+[👉🏻 My Notion 👈🏻](https://jobchae.notion.site/Developer-730cfc75b1c14bc8a8f17409a66e1ff6)
+ 
 </h5>  
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jokj624)](https://github.com/jokj624) 
