@@ -24,7 +24,6 @@ Jeong Ah Chae<br/>
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jokj624@gmail.com)](mailto:jokj624@gmail.com)
  
  
-
 <h3 align="center"> 💻 Current Project </h3>   
 
 [MAIT](https://github.com/jokj624/AIhomeTraining_web) : AI 홈 트레이닝 웹   
