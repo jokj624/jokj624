@@ -7,7 +7,7 @@ Jeong Ah Chae<br/>
  Sookmyung Women's University, Dept. Software Convergence    </br> 
     
 [👉🏻 My Notion 👈🏻](https://jobchae.notion.site/Developer-730cfc75b1c14bc8a8f17409a66e1ff6)
- 
+  
 </h5>  
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jokj624)](https://github.com/jokj624) 
