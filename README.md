@@ -12,6 +12,7 @@ Jeong Ah Chae<br/>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jokj624)](https://github.com/jokj624) 
 
+
 ### 🙋🏻‍♀️ Interest
 `C/C++` `Algorithm` `JavaScript` `TypeScript` `Node.js` `Nest.js` `React` `Express.js` `Koa` `MongoDB` 
   
@@ -31,7 +32,6 @@ Jeong Ah Chae<br/>
 [OMG-Test](https://github.com/jokj624/OMG-Test) : 재미로 보는 나와 닮은 오마이걸 멤버 성격 테스트   
 [갸가갸가](https://github.com/jokj624/GaGaGaGaServer) : 솝트인들을 위한 위트있는 첫인상 기록 서비스 (28기 솝커톤)   
 [두리번](https://github.com/TeamDooRiBon/DooRi-Server) : 작은 움직임이 만드는 우리다운 여행 두리번 (28기 SOPT App-Jam)
-
  
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624) 
 </div>
