@@ -18,7 +18,7 @@
 * [갸가갸가](https://github.com/jokj624/GaGaGaGaServer) : 솝트인들을 위한 위트있는 첫인상 기록 서비스 (28기 솝커톤)   
 * [두리번](https://github.com/TeamDooRiBon/DooRi-Server) : 작은 움직임이 만드는 우리다운 여행 두리번 (28기 SOPT App-Jam)
 
-#### Experiences
+#### Experience
 
 > 2021
 
