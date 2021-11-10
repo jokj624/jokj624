@@ -40,5 +40,3 @@
 
 [ ![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jokj624)](https://github.com/jokj624)
-
