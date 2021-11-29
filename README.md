@@ -4,7 +4,7 @@
 >  Jeong Ah Chae   
 > Sookmyung Women's University, Dept. Software Convergence    
 
-[👉🏻 My Notion 👈🏻](https://jobchae.notion.site/Developer-730cfc75b1c14bc8a8f17409a66e1ff6)
+[👉🏻 My Notion 👈🏻](https://jobchae.notion.site/Developer-730cfc75b1c14bc8a8f17409a66e1ff6)  
 
 #### Interest
 
