@@ -28,7 +28,7 @@
 * ICPC Sinchon Organizer (2021.3 ~)
 
 > 2020 
-
+ 
 * Media Interface Lab. Intern (2020. 9 ~)
 
 ####  Link
