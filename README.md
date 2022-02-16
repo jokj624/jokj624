@@ -35,7 +35,7 @@
 #### Experience
 
 > 2022
- 
+* Teammemori Backend Developer (2021.2 ~)
  
 > 2021
 
