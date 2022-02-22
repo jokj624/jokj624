@@ -22,7 +22,7 @@
  <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
 
-
+ 
 #### Projects
 
 * [HAVIT](https://github.com/TeamHavit/Havit-Server) : 기억하고 싶은 모든 콘텐츠를 내 손안에, HAVIT (29기 SOPT App-Jam)
