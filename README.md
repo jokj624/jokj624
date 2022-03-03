@@ -35,7 +35,8 @@
 #### Experience
 
 > 2022
-* Teammemori Backend Developer (2021.2 ~)
+* SOPT 30th Server Part Lead (2022.2 ~)
+* Teammemori Backend Developer (2022.2 ~)
  
 > 2021
 
