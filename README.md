@@ -34,19 +34,19 @@
 #### Experience
 
 > 2022
-* SOPT 30th Server Part Lead (2022.2 ~ 2022.08)
-* Teammemori Backend Developer (2022.2 ~)
+* SOPT 30th Server Part Lead (2022.2 ~ 2022.8)
+* Teammemori Backend Developer (2022.2 ~ 2022.7)
  
 > 2021
 
-* Gamsung Soft Inc. Intern (2021.7 ~)
-* SOPT 29th Server (2021.9 ~)
-* SOPT 28th Server (2021.3 ~)
-* ICPC Sinchon Organizer (2021.3 ~)
+* Gamsung Soft Inc. Intern (2021.7 ~ 2022.2)
+* SOPT 29th Server (2021.9 ~ 2022.1)
+* SOPT 28th Server (2021.3 ~ 2021.7)
+* ICPC Sinchon Organizer (2021.3 ~ 2021.8)
 
 > 2020 
  
-* Media Interface Lab. Intern (2020. 9 ~)
+* Media Interface Lab. Intern (2020.9 ~ 2022.2)
 
 ####  Link
 
@@ -58,3 +58,4 @@
 [ ![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
 
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=iot624&postId={insert_postId})](https://iot624.tistory.com)
