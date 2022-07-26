@@ -58,4 +58,4 @@
 [ ![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=iot624&postId={insert_postId})](https://iot624.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=iot624)](https://iot624.tistory.com)
