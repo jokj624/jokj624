@@ -33,7 +33,7 @@
 #### Experience
 
 > 2022
-* Goorm Fullstack Engineer Intern (2022.9 ~)
+* Goorm Fullstack Engineer Intern (2022.9 ~ 2022.12)
 * SOPT 30th Server Part Lead (2022.2 ~ 2022.8)
 * Teammemori Backend Developer (2022.2 ~ 2022.7)
  
