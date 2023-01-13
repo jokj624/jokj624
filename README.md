@@ -50,12 +50,12 @@
 
 ####  Link
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://iot624.tistory.com/)](https://iot624.tistory.com/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jokj624@gmail.com)](mailto:jokj624@gmail.com)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.jobchae.kr/)](https://blog.jobchae.kr/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jokj624@gmail.com)](mailto:jokj624@gmail.com)
 
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=iot624&theme=tistory)](https://iot624.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=iot624&theme=tistory)](https://blog.jobchae.kr)
