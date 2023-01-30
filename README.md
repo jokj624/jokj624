@@ -25,7 +25,7 @@
 #### Projects
 
 * [FogFog](https://github.com/TeamFogFog/FogFog-Server) : 내 근처 흡연구역 지도, FogFog
-* [HAVIT](https://github.com/TeamHavit/Havit-Server) : 기억하고 싶은 모든 콘텐츠를 내 손안에, HAVIT (29기 SOPT App-Jam) <img src="https://img.shields.io/badge/Play Store-414141?style=flat-square&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=org.sopt.havit"/>
+* [HAVIT](https://github.com/TeamHavit/Havit-Server) : 기억하고 싶은 모든 콘텐츠를 내 손안에, HAVIT (29기 SOPT App-Jam) [![play store badge](http://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=google-play&link=https://play.google.com/store/apps/details?id=org.sopt.havit)](https://play.google.com/store/apps/details?id=org.sopt.havit)
 * [두리번](https://github.com/TeamDooRiBon/DooRi-Server) : 작은 움직임이 만드는 우리다운 여행 두리번 (28기 SOPT App-Jam)
 * [갸가갸가](https://github.com/jokj624/GaGaGaGaServer) : 솝트인들을 위한 위트있는 첫인상 기록 서비스 (28기 솝커톤) 
 * [SMSW Slack bot](https://github.com/jokj624/sw-slackbot) : 숙명여대 소프트웨어학부 취업 공지를 가져오는 슬랙 App
