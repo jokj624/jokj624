@@ -48,13 +48,8 @@
 > 2021
 
 * [Gamsung Soft Inc.](https://www.gamsungsoft.co.kr/) Intern (2021.7 ~ 2022.2)
-* SOPT 29th Server (2021.9 ~ 2022.1)
-* SOPT 28th Server (2021.3 ~ 2021.7)
+* SOPT 28, 29th Server (2021.3 ~ 2021.7, 2021.9 ~ 2022.1)
 * [ICPC Sinchon](https://icpc-sinchon.io/) Organizer (2021.3 ~ 2021.8)
-
-> 2020 
- 
-* Media Interface Lab. Intern (2020.9 ~ 2022.2)
 
 ####  Link
 
