@@ -29,7 +29,8 @@
 
 #### Open Source Contribute
 * [tsoa](https://github.com/lukeautry/tsoa) [#1284](https://github.com/lukeautry/tsoa/pull/1284) Add HttpStatusCodeLiteral 451
-
+* [bruno](https://github.com/usebruno/bruno) [#1837](https://github.com/usebruno/bruno/pull/1837) feat: add korean contributing.md translation
+ 
 #### Experience
 
 > 2023
