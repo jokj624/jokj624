@@ -32,14 +32,16 @@
 * [bruno](https://github.com/usebruno/bruno) [#1837](https://github.com/usebruno/bruno/pull/1837) feat: add korean contributing.md translation
  
 #### Experience
+> 2024
+* [Goorm](https://goorm.co/) Backend Engineer (2024.06 ~ )
 
 > 2023
-* [Goorm](https://goorm.co/) Infrastructure Engineer (2023.3 ~ )
+* [Goorm](https://goorm.co/) Infrastructure Engineer (2023.03 ~ 2024.06)
 
 > 2022
-* [Goorm](https://goorm.co/) Fullstack Engineer Intern (2022.9 ~ 2022.12)
-* [SOPT](https://sopt.org/) 30th Server Part Lead (2022.2 ~ 2022.8)
-* Teammemori Backend Developer (2022.2 ~ 2022.7)
+* [Goorm](https://goorm.co/) Fullstack Engineer Intern (2022.09 ~ 2022.12)
+* [SOPT](https://sopt.org/) 30th Server Part Lead (2022.02 ~ 2022.08)
+* Teammemori Backend Developer (2022.02 ~ 2022.07)
 
 ####  Link
 
