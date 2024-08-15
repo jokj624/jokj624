@@ -28,8 +28,8 @@
 | <img src="https://user-images.githubusercontent.com/20807197/218327758-c1de2275-51ad-4022-8dcf-6be01cdc4ed6.png" width="20px" height="20px" /> [두리번](https://github.com/TeamDooRiBon/DooRi-Server) | 작은 움직임이 만드는 우리다운 여행 두리번 | | Server Developer |
 
 #### Open Source Contribute
-* [tsoa](https://github.com/lukeautry/tsoa) [#1284](https://github.com/lukeautry/tsoa/pull/1284) Add HttpStatusCodeLiteral 451
-* [bruno](https://github.com/usebruno/bruno) [#1837](https://github.com/usebruno/bruno/pull/1837) feat: add korean contributing.md translation
+* [lukeautry/tsoa](https://github.com/lukeautry/tsoa) [#1284](https://github.com/lukeautry/tsoa/pull/1284) 
+* [usebruno/bruno](https://github.com/usebruno/bruno) [#1837](https://github.com/usebruno/bruno/pull/1837) [#2761](https://github.com/usebruno/bruno/pull/2761)
  
 #### Experience
 > 2024
