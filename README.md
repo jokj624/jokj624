@@ -18,7 +18,7 @@
 #### Open Source Contribute
 > I try to contribute, even in the smallest way.
 * [lukeautry/tsoa](https://github.com/lukeautry/tsoa) [#1284](https://github.com/lukeautry/tsoa/pull/1284) 
-* [usebruno/bruno](https://github.com/usebruno/bruno) [#1837](https://github.com/usebruno/bruno/pull/1837) [#2761](https://github.com/usebruno/bruno/pull/2761) [#2843](https://github.com/usebruno/bruno/pull/2843)
+* [usebruno/bruno](https://github.com/usebruno/bruno) [#1837](https://github.com/usebruno/bruno/pull/1837) [#2761](https://github.com/usebruno/bruno/pull/2761) [#2843](https://github.com/usebruno/bruno/pull/2843) [#2855](https://github.com/usebruno/bruno/pull/2855)
  
 #### Projects
 
