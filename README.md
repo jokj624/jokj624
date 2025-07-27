@@ -1,6 +1,4 @@
-​     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjokj624)](https://hits.seeyoufarm.com)  
-   
+
 #### Interest
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
@@ -43,11 +41,7 @@
 
 ####  Link
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://iot624.tistory.com/)](https://iot624.tistory.com/)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jokj624@gmail.com)](mailto:jokj624@gmail.com)
-
-
+[![tistory](https://tistory-post-card.vercel.app/api/post?name=iot624)](https://iot624.tistory.com)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jokj624)](https://solved.ac/jokj624)
 
-[![tistory](https://tistory-post-card.vercel.app/api/post?name=iot624)](https://iot624.tistory.com)
