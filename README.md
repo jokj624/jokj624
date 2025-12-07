@@ -14,7 +14,6 @@
 | Project | Desc | Remark | Role |
 |------|---|---|----|
 | <img src="https://user-images.githubusercontent.com/20807197/218327683-6004256d-c05b-46fe-a517-a2245d1e5bb2.png" width="20px" height="20px"/> [FogFog](https://github.com/TeamFogFog/FogFog-Server)| 내 근처 흡연구역 지도, FogFog | | Main PM, Server Developer |
-| <img src="https://user-images.githubusercontent.com/20807197/219945624-4fded25a-7f6b-46af-98b6-196a5da1fb43.png" width="24px" height="24px" /> [Cherish](https://github.com/NewCherish/Cherish-Server) | 연락을 이어나가는 가장 쉬운 방법 | ✨ Cherish 리뉴얼 중 | Server Developer |
 | <img src="https://user-images.githubusercontent.com/20807197/218327608-5f490a35-1492-415c-bb09-695db62d7562.png" width="20px" height="20px" /> [Havit](https://github.com/TeamHavit/Havit-Server) | 기억하고 싶은 모든 콘텐츠를 내 손안에, Havit |[![play store badge](http://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=google-play&link=https://play.google.com/store/apps/details?id=org.sopt.havit)](https://play.google.com/store/apps/details?id=org.sopt.havit)  [![app store badge](http://img.shields.io/badge/App%20Store-0D96F6?logoColor=white&style=flat-square&logo=appstore&link=https://apps.apple.com/us/app/havit/id1607518014)](https://apps.apple.com/us/app/havit/id1607518014)| Server Developer |
 | <img src="https://user-images.githubusercontent.com/20807197/218327758-c1de2275-51ad-4022-8dcf-6be01cdc4ed6.png" width="20px" height="20px" /> [두리번](https://github.com/TeamDooRiBon/DooRi-Server) | 작은 움직임이 만드는 우리다운 여행 두리번 | | Server Developer |
  
